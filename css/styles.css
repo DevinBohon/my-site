@@ -1,0 +1,135 @@
+body{
+    margin: 0%;
+    text-align: center;
+    font-family:verdana, sans-serif, monospace ;
+   color:darkslategray;
+}
+.profile{
+    border-radius: 100%;
+
+}
+.intro{
+    margin: auto;
+    width: 30%;
+}
+p{
+    line-height: 2;
+}
+hr{
+    background-color: none;
+    border-color: grey;
+    border-style:dotted none none none;
+    width: 5%;
+    border-width: 5px;
+}
+h1{
+    font-family: 'sacramento',cursive, monospace;
+    font-size: 5.625rem;
+    line-height: 2;
+   margin: 5% auto 0 auto;
+}
+h2{
+    font-weight: normal;
+   margin-top: 30px;
+}
+h1, h2{
+    color: #66bfbf;
+}
+h3, a{
+    color: #11999e;
+}
+.job-title{
+    font-size: 2.5rem ;
+}
+.top{
+    margin: 0%;
+    padding-top: 10%;
+    background-color: skyblue;
+}
+.skill-img{
+    width: 10rem;
+    height: auto;
+    border-image-width: 25%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+.skill-img1{
+    width: 10rem;
+    height: auto;
+    border-image-width: 25%;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+.bottom-cloud{
+    position:absolute;
+}
+.top-cloud{
+position: absolute;
+right: 25%;
+top: 5%;
+}
+.middle-container{
+    margin-top: 100px;
+    margin-bottom: 100px ;
+}
+.skill-row{
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    line-height: 2;
+} 
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top,#11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    
+  }
+  .contact-message{
+    margin: 30px auto 90px;
+  }
+  .contact-me{
+    line-height: 2;
+    margin-top: 60px;
+  }
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 50px;
+    line-height: 2;
+
+    
+}
+.footer-link{
+    background-color: #66bfbf;
+    color: #11999e;
+    margin: 20px;
+   
+}
+a:hover{
+    color: whitesmoke;
+}
+.copyright{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
